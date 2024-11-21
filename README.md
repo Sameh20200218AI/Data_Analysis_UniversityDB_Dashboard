@@ -6,5 +6,9 @@ Using Power BI For Create Interactive Dashboard
 
 This is the dashboard created using the university database.
 
-![UniversityDB_Dashboard.png]([images/dashboard.png](https://github.com/Sameh20200218AI/Data_Analysis_UniversityDB_Dashboard/blob/main/UniversityDB_Dashboard.png))
+![Electronocs Sales.png](https://github.com/Sameh20200218AI/Electronics_Sales_Dashboard_Using_PowerBI/blob/main/Electronics%20Sales.png)
+
+## Model View : 
+![ Sales Model View.png](https://github.com/Sameh20200218AI/Electronics_Sales_Dashboard_Using_PowerBI/blob/main/Sales%20Model%20View.png)
+
 
