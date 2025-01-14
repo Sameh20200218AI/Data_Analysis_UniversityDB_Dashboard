@@ -8,6 +8,9 @@ This is the dashboard created using the university database.
 
 ![UniversityDB_Dashboard.png](https://github.com/Sameh20200218AI/Data_Analysis_UniversityDB_Dashboard/blob/main/UniversityDB_Dashboard.png)
 
+# Updated Version Of Dashboard
+![UniversityDB_Dashboard_v2.png](https://github.com/Sameh20200218AI/Data_Analysis_UniversityDB_Dashboard/blob/main/UniversityDB_Dashboard_v2.png)
+
 ## Model View : 
 ![UniversityDB_Model_Views.png](https://github.com/Sameh20200218AI/Data_Analysis_UniversityDB_Dashboard/blob/main/UniversityDB_Model_Views.png)
 
